@@ -1,2 +1,2 @@
 # fcc-backend-dev-api
- FreeCodeCamp back-end development and APIs projects
+ Freecodecamp back-end development and API projects
